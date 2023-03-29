@@ -38,8 +38,6 @@ import './ttl.js';
 import './ui';
 import './video-control.js';
 
-import './hybrid'
-
 /**
  * Additional A-Frame components and systems
  */
